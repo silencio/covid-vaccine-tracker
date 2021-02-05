@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         #curl https://partners.doctolib.fr/booking/la-salle-des-greniers-saint-jean-centre-de-vaccination.json | jq . > la-salle-des-greniers-saint-jean-centre-de-vaccination.json
-        curl https://partners.doctolib.fr/availabilities.json?start_date=2021-02-15&visit_motive_ids=2547915&agenda_ids=419043&insurance_sector=public&practice_ids=164517&destroy_temporary=true&limit=15&allowNewPatients=true&telehealth=false&profileId=242564&isOrganization=true&telehealthFeatureEnabled=false&vaccinationMotive=true&vaccinationDaysRange=60&vaccinationCenter=true&nbConfirmedVaccinationAppointments=4435 | jq . > availabilities.2547915.json
+        curl "https://partners.doctolib.fr/availabilities.json?start_date=2021-02-15&visit_motive_ids=2547915&agenda_ids=419043&insurance_sector=public&practice_ids=164517&destroy_temporary=true&limit=15&allowNewPatients=true&telehealth=false&profileId=242564&isOrganization=true&telehealthFeatureEnabled=false&vaccinationMotive=true&vaccinationDaysRange=60&vaccinationCenter=true&nbConfirmedVaccinationAppointments=4435" | jq . > availabilities.2547915.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
