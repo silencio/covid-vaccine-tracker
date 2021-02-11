@@ -1,34 +1,7 @@
 {
+  "availabilities": [],
   "total": 0,
-  "availabilities": [
-    {
-      "date": "2021-02-21",
-      "slots": []
-    },
-    {
-      "date": "2021-02-22",
-      "slots": []
-    },
-    {
-      "date": "2021-02-23",
-      "slots": []
-    },
-    {
-      "date": "2021-02-24",
-      "slots": []
-    },
-    {
-      "date": "2021-02-25",
-      "slots": []
-    },
-    {
-      "date": "2021-02-26",
-      "slots": []
-    },
-    {
-      "date": "2021-02-27",
-      "slots": []
-    }
-  ],
-  "next_slot": "2021-03-02"
+  "reason": "no_availabilities",
+  "message": "Aucune disponibilité en ligne.",
+  "number_future_vaccinations":"ignored"
 }
