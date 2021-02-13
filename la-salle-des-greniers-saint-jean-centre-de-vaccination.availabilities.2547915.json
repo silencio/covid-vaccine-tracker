@@ -1,66 +1,7 @@
 {
+  "availabilities": [],
   "total": 0,
-  "availabilities": [
-    {
-      "date": "2021-02-23",
-      "slots": []
-    },
-    {
-      "date": "2021-02-24",
-      "slots": []
-    },
-    {
-      "date": "2021-02-25",
-      "slots": []
-    },
-    {
-      "date": "2021-02-26",
-      "slots": []
-    },
-    {
-      "date": "2021-02-27",
-      "slots": []
-    },
-    {
-      "date": "2021-02-28",
-      "slots": []
-    },
-    {
-      "date": "2021-03-01",
-      "slots": []
-    },
-    {
-      "date": "2021-03-02",
-      "slots": []
-    },
-    {
-      "date": "2021-03-03",
-      "slots": []
-    },
-    {
-      "date": "2021-03-04",
-      "slots": []
-    },
-    {
-      "date": "2021-03-05",
-      "slots": []
-    },
-    {
-      "date": "2021-03-06",
-      "slots": []
-    },
-    {
-      "date": "2021-03-07",
-      "slots": []
-    },
-    {
-      "date": "2021-03-08",
-      "slots": []
-    },
-    {
-      "date": "2021-03-09",
-      "slots": []
-    }
-  ],
-  "next_slot": "2021-03-12"
+  "reason": "no_availabilities",
+  "message": "Aucune disponibilité en ligne.",
+  "number_future_vaccinations":"ignored"
 }
