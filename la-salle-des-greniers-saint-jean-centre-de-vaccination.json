@@ -7,64 +7,9 @@
       "organization": true,
       "redirect_url": null
     },
-    "specialities": [
-      {
-        "id": 5494,
-        "name": "Vaccination COVID-19",
-        "kind": "procedure"
-      }
-    ],
+    "specialities": [],
     "visit_motive_categories": [],
-    "visit_motives": [
-      {
-        "id": 2547915,
-        "name": "1ère injection vaccin COVID-19 (Pfizer-BioNTech)",
-        "visit_motive_category_id": null,
-        "organization_id": 132294,
-        "speciality_id": 5494,
-        "ref_visit_motive_id": 6970,
-        "position": 1,
-        "telehealth": false,
-        "vaccination_days_range": 26,
-        "vaccination_motive": true,
-        "first_shot_motive": true,
-        "allow_new_patients": true,
-        "allow_new_patients_on_insurance_sector": true,
-        "configurations": null
-      },
-      {
-        "id": 2547916,
-        "name": "2nde injection vaccin COVID-19 (Pfizer-BioNTech)",
-        "visit_motive_category_id": null,
-        "organization_id": 132294,
-        "speciality_id": 5494,
-        "ref_visit_motive_id": 6971,
-        "position": 2,
-        "telehealth": false,
-        "vaccination_days_range": 0,
-        "vaccination_motive": true,
-        "first_shot_motive": false,
-        "allow_new_patients": true,
-        "allow_new_patients_on_insurance_sector": true,
-        "configurations": null
-      },
-      {
-        "id": 2569660,
-        "name": "RDV à confirmer 2nde injection",
-        "visit_motive_category_id": null,
-        "organization_id": 132294,
-        "speciality_id": 5494,
-        "ref_visit_motive_id": null,
-        "position": 3,
-        "telehealth": false,
-        "vaccination_days_range": 0,
-        "vaccination_motive": false,
-        "first_shot_motive": null,
-        "allow_new_patients": true,
-        "allow_new_patients_on_insurance_sector": true,
-        "configurations": null
-      }
-    ],
+    "visit_motives": [],
     "agendas": [
       {
         "id": 417081,
@@ -164,23 +109,13 @@
       },
       {
         "id": 419043,
-        "booking_disabled": false,
+        "booking_disabled": true,
         "booking_temporary_disabled": false,
         "landline_number": "02 41 05 59 99",
         "anonymous": true,
         "organization_id": 132294,
-        "visit_motive_ids_by_practice_id": {
-          "164517": [
-            2547915,
-            2547916,
-            2569660
-          ]
-        },
-        "visit_motive_ids": [
-          2547915,
-          2547916,
-          2569660
-        ],
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
         "visit_motive_ids_only_for_doctors": null,
         "practice_id": 164517,
         "speciality_id": 5494,
