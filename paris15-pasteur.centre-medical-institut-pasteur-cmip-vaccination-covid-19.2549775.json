@@ -1,7 +1,63 @@
 {
-  "availabilities": [],
-  "total": 0,
-  "reason": "no_availabilities",
-  "message": "Aucune disponibilité en ligne.",
-  "number_future_vaccinations":"ignored"
+  "availabilities": [
+    {
+      "date": "2021-03-08",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-09",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-10",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-11",
+      "slots": [
+        {
+          "agenda_id": 411935,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-11T11:30:00.000+01:00",
+          "end_date": "2021-03-11T11:40:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 411935,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-11T11:30:00.000+01:00",
+              "end_date": "2021-03-11T11:40:00.000+01:00",
+              "visit_motive_id": 2549775
+            },
+            {
+              "agenda_id": 411935,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-08T13:50:00.000+02:00",
+              "end_date": "2021-04-08T14:00:00.000+02:00",
+              "visit_motive_id": 2549776
+            }
+          ]
+        }
+      ],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-12",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-13",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-14",
+      "slots": [],
+      "substitution": null
+    }
+  ],
+  "total": 1
 }
