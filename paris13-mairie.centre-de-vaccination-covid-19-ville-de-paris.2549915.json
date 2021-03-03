@@ -1,7 +1,85 @@
 {
-  "availabilities": [],
-  "total": 0,
-  "reason": "no_availabilities",
-  "message": "Aucune disponibilité en ligne.",
-  "number_future_vaccinations":"ignored"
+  "availabilities": [
+    {
+      "date": "2021-03-10",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-11",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-12",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-13",
+      "slots": [
+        {
+          "agenda_id": 415620,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-13T09:10:00.000+01:00",
+          "end_date": "2021-03-13T09:20:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 415620,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-13T09:10:00.000+01:00",
+              "end_date": "2021-03-13T09:20:00.000+01:00",
+              "visit_motive_id": 2549915
+            },
+            {
+              "agenda_id": 415620,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-09T16:20:00.000+02:00",
+              "end_date": "2021-04-09T16:30:00.000+02:00",
+              "visit_motive_id": 2549916
+            }
+          ]
+        },
+        {
+          "agenda_id": 415620,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-13T16:30:00.000+01:00",
+          "end_date": "2021-03-13T16:40:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 415620,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-13T16:30:00.000+01:00",
+              "end_date": "2021-03-13T16:40:00.000+01:00",
+              "visit_motive_id": 2549915
+            },
+            {
+              "agenda_id": 415620,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-09T16:20:00.000+02:00",
+              "end_date": "2021-04-09T16:30:00.000+02:00",
+              "visit_motive_id": 2549916
+            }
+          ]
+        }
+      ],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-14",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-15",
+      "slots": [],
+      "substitution": null
+    },
+    {
+      "date": "2021-03-16",
+      "slots": [],
+      "substitution": null
+    }
+  ],
+  "total": 2
 }
