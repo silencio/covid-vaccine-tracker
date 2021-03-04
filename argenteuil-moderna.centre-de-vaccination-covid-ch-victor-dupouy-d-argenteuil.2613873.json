@@ -26,28 +26,6 @@
         {
           "agenda_id": 412945,
           "practitioner_agenda_id": null,
-          "start_date": "2021-03-15T09:00:00.000+01:00",
-          "end_date": "2021-03-15T09:10:00.000+01:00",
-          "steps": [
-            {
-              "agenda_id": 412945,
-              "practitioner_agenda_id": null,
-              "start_date": "2021-03-15T09:00:00.000+01:00",
-              "end_date": "2021-03-15T09:10:00.000+01:00",
-              "visit_motive_id": 2613873
-            },
-            {
-              "agenda_id": 412945,
-              "practitioner_agenda_id": null,
-              "start_date": "2021-04-12T09:00:00.000+02:00",
-              "end_date": "2021-04-12T09:10:00.000+02:00",
-              "visit_motive_id": 2613874
-            }
-          ]
-        },
-        {
-          "agenda_id": 412945,
-          "practitioner_agenda_id": null,
           "start_date": "2021-03-15T09:20:00.000+01:00",
           "end_date": "2021-03-15T09:30:00.000+01:00",
           "steps": [
@@ -61,8 +39,30 @@
             {
               "agenda_id": 412945,
               "practitioner_agenda_id": null,
-              "start_date": "2021-04-12T09:00:00.000+02:00",
-              "end_date": "2021-04-12T09:10:00.000+02:00",
+              "start_date": "2021-04-13T09:20:00.000+02:00",
+              "end_date": "2021-04-13T09:30:00.000+02:00",
+              "visit_motive_id": 2613874
+            }
+          ]
+        },
+        {
+          "agenda_id": 412945,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-15T16:15:00.000+01:00",
+          "end_date": "2021-03-15T16:25:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-15T16:15:00.000+01:00",
+              "end_date": "2021-03-15T16:25:00.000+01:00",
+              "visit_motive_id": 2613873
+            },
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-13T09:20:00.000+02:00",
+              "end_date": "2021-04-13T09:30:00.000+02:00",
               "visit_motive_id": 2613874
             }
           ]
@@ -72,7 +72,52 @@
     },
     {
       "date": "2021-03-16",
-      "slots": [],
+      "slots": [
+        {
+          "agenda_id": 412945,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-16T09:30:00.000+01:00",
+          "end_date": "2021-03-16T09:40:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-16T09:30:00.000+01:00",
+              "end_date": "2021-03-16T09:40:00.000+01:00",
+              "visit_motive_id": 2613873
+            },
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-13T09:20:00.000+02:00",
+              "end_date": "2021-04-13T09:30:00.000+02:00",
+              "visit_motive_id": 2613874
+            }
+          ]
+        },
+        {
+          "agenda_id": 412945,
+          "practitioner_agenda_id": null,
+          "start_date": "2021-03-16T09:50:00.000+01:00",
+          "end_date": "2021-03-16T10:00:00.000+01:00",
+          "steps": [
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-03-16T09:50:00.000+01:00",
+              "end_date": "2021-03-16T10:00:00.000+01:00",
+              "visit_motive_id": 2613873
+            },
+            {
+              "agenda_id": 412945,
+              "practitioner_agenda_id": null,
+              "start_date": "2021-04-13T09:20:00.000+02:00",
+              "end_date": "2021-04-13T09:30:00.000+02:00",
+              "visit_motive_id": 2613874
+            }
+          ]
+        }
+      ],
       "substitution": null
     },
     {
@@ -81,5 +126,5 @@
       "substitution": null
     }
   ],
-  "total": 2
+  "total": 4
 }
