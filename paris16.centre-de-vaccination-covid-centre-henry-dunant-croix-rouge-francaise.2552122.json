@@ -1,63 +1,7 @@
 {
-  "availabilities": [
-    {
-      "date": "2021-03-12",
-      "slots": [],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-13",
-      "slots": [],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-14",
-      "slots": [],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-15",
-      "slots": [],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-16",
-      "slots": [],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-17",
-      "slots": [
-        {
-          "agenda_id": 417116,
-          "practitioner_agenda_id": null,
-          "start_date": "2021-03-17T15:30:00.000+01:00",
-          "end_date": "2021-03-17T15:40:00.000+01:00",
-          "steps": [
-            {
-              "agenda_id": 417116,
-              "practitioner_agenda_id": null,
-              "start_date": "2021-03-17T15:30:00.000+01:00",
-              "end_date": "2021-03-17T15:40:00.000+01:00",
-              "visit_motive_id": 2552122
-            },
-            {
-              "agenda_id": 417116,
-              "practitioner_agenda_id": null,
-              "start_date": "2021-04-12T10:10:00.000+02:00",
-              "end_date": "2021-04-12T10:20:00.000+02:00",
-              "visit_motive_id": 2552123
-            }
-          ]
-        }
-      ],
-      "substitution": null
-    },
-    {
-      "date": "2021-03-18",
-      "slots": [],
-      "substitution": null
-    }
-  ],
-  "total": 1
+  "availabilities": [],
+  "total": 0,
+  "reason": "no_availabilities",
+  "message": "Aucune disponibilité en ligne.",
+  "number_future_vaccinations":"ignored"
 }
