@@ -1,0 +1,91 @@
+{
+  "data": {
+    "profile": {
+      "id": 242127,
+      "name_with_title_and_determiner": "Centre de Vaccination COVID 19 - Ville de Boulogne Billancourt",
+      "speciality": null,
+      "organization": true,
+      "redirect_url": null
+    },
+    "specialities": [],
+    "visit_motive_categories": [],
+    "visit_motives": [],
+    "agendas": [
+      {
+        "id": 409411,
+        "booking_disabled": true,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 55 18 47 70",
+        "anonymous": true,
+        "organization_id": 131985,
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164086,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
+        "id": 409414,
+        "booking_disabled": true,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 55 18 47 70",
+        "anonymous": true,
+        "organization_id": 131985,
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164086,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
+        "id": 409413,
+        "booking_disabled": true,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 55 18 47 70",
+        "anonymous": true,
+        "organization_id": 131985,
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164086,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      }
+    ],
+    "places": [
+      {
+        "id": "practice-164086",
+        "address": "40-44 Rue Denfert Rochereau",
+        "zipcode": "92100",
+        "city": "Boulogne-Billancourt",
+        "floor": 0,
+        "latitude": 48.8445447,
+        "longitude": 2.2455226,
+        "elevator": false,
+        "handicap": false,
+        "formal_name": "Centre Vaccination Mairie Boulogne",
+        "landline_number": "01 55 18 47 70",
+        "reception_info": null,
+        "name": "Centre Vaccination Mairie Boulogne",
+        "practice_ids": [
+          164086
+        ],
+        "is_aphp": false,
+        "aphp_url": "http://www.aphp.fr/contenu/combien-ca-coute"
+      }
+    ],
+    "practitioners": [],
+    "availabilities_preview_compatible": false,
+    "vaccination_center": true,
+    "number_future_vaccinations":"ignored",
+    "has_new_patient_rule": false
+  }
+}
