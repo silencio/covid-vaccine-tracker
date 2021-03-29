@@ -87,6 +87,32 @@
     ],
     "agendas": [
       {
+        "id": 443739,
+        "booking_disabled": false,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 30 97 29 30",
+        "anonymous": true,
+        "organization_id": 130850,
+        "visit_motive_ids_by_practice_id": {
+          "164634": [
+            2598090,
+            2532017,
+            2532018
+          ]
+        },
+        "visit_motive_ids": [
+          2598090,
+          2532017,
+          2532018
+        ],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164634,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
         "id": 422186,
         "booking_disabled": false,
         "booking_temporary_disabled": false,
@@ -123,32 +149,6 @@
         "organization_id": 130850,
         "visit_motive_ids_by_practice_id": {},
         "visit_motive_ids": [],
-        "visit_motive_ids_only_for_doctors": null,
-        "practice_id": 164634,
-        "speciality_id": 5494,
-        "practitioner_id": null,
-        "insurance_sector_enabled": false,
-        "equipment_agendas_required": false
-      },
-      {
-        "id": 443739,
-        "booking_disabled": false,
-        "booking_temporary_disabled": false,
-        "landline_number": "01 30 97 29 30",
-        "anonymous": true,
-        "organization_id": 130850,
-        "visit_motive_ids_by_practice_id": {
-          "164634": [
-            2598090,
-            2532017,
-            2532018
-          ]
-        },
-        "visit_motive_ids": [
-          2598090,
-          2532017,
-          2532018
-        ],
         "visit_motive_ids_only_for_doctors": null,
         "practice_id": 164634,
         "speciality_id": 5494,
