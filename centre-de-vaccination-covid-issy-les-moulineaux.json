@@ -101,6 +101,30 @@
         "equipment_agendas_required": false
       },
       {
+        "id": 448255,
+        "booking_disabled": false,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 41 23 80 10",
+        "anonymous": true,
+        "organization_id": 131981,
+        "visit_motive_ids_by_practice_id": {
+          "164082": [
+            2544587,
+            2544588
+          ]
+        },
+        "visit_motive_ids": [
+          2544587,
+          2544588
+        ],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164082,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
         "id": 448252,
         "booking_disabled": false,
         "booking_temporary_disabled": false,
@@ -125,22 +149,46 @@
         "equipment_agendas_required": false
       },
       {
-        "id": 448255,
-        "booking_disabled": false,
+        "id": 446264,
+        "booking_disabled": true,
         "booking_temporary_disabled": false,
         "landline_number": "01 41 23 80 10",
         "anonymous": true,
         "organization_id": 131981,
-        "visit_motive_ids_by_practice_id": {
-          "164082": [
-            2544587,
-            2544588
-          ]
-        },
-        "visit_motive_ids": [
-          2544587,
-          2544588
-        ],
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164082,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
+        "id": 438641,
+        "booking_disabled": true,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 41 23 80 10",
+        "anonymous": true,
+        "organization_id": 131981,
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
+        "visit_motive_ids_only_for_doctors": null,
+        "practice_id": 164082,
+        "speciality_id": 5494,
+        "practitioner_id": null,
+        "insurance_sector_enabled": false,
+        "equipment_agendas_required": false
+      },
+      {
+        "id": 438637,
+        "booking_disabled": true,
+        "booking_temporary_disabled": false,
+        "landline_number": "01 41 23 80 10",
+        "anonymous": true,
+        "organization_id": 131981,
+        "visit_motive_ids_by_practice_id": {},
+        "visit_motive_ids": [],
         "visit_motive_ids_only_for_doctors": null,
         "practice_id": 164082,
         "speciality_id": 5494,
@@ -389,39 +437,7 @@
         "equipment_agendas_required": false
       },
       {
-        "id": 438637,
-        "booking_disabled": true,
-        "booking_temporary_disabled": false,
-        "landline_number": "01 41 23 80 10",
-        "anonymous": true,
-        "organization_id": 131981,
-        "visit_motive_ids_by_practice_id": {},
-        "visit_motive_ids": [],
-        "visit_motive_ids_only_for_doctors": null,
-        "practice_id": 164082,
-        "speciality_id": 5494,
-        "practitioner_id": null,
-        "insurance_sector_enabled": false,
-        "equipment_agendas_required": false
-      },
-      {
         "id": 438639,
-        "booking_disabled": true,
-        "booking_temporary_disabled": false,
-        "landline_number": "01 41 23 80 10",
-        "anonymous": true,
-        "organization_id": 131981,
-        "visit_motive_ids_by_practice_id": {},
-        "visit_motive_ids": [],
-        "visit_motive_ids_only_for_doctors": null,
-        "practice_id": 164082,
-        "speciality_id": 5494,
-        "practitioner_id": null,
-        "insurance_sector_enabled": false,
-        "equipment_agendas_required": false
-      },
-      {
-        "id": 438641,
         "booking_disabled": true,
         "booking_temporary_disabled": false,
         "landline_number": "01 41 23 80 10",
@@ -518,22 +534,6 @@
       },
       {
         "id": 425406,
-        "booking_disabled": true,
-        "booking_temporary_disabled": false,
-        "landline_number": "01 41 23 80 10",
-        "anonymous": true,
-        "organization_id": 131981,
-        "visit_motive_ids_by_practice_id": {},
-        "visit_motive_ids": [],
-        "visit_motive_ids_only_for_doctors": null,
-        "practice_id": 164082,
-        "speciality_id": 5494,
-        "practitioner_id": null,
-        "insurance_sector_enabled": false,
-        "equipment_agendas_required": false
-      },
-      {
-        "id": 446264,
         "booking_disabled": true,
         "booking_temporary_disabled": false,
         "landline_number": "01 41 23 80 10",
