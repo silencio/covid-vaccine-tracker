@@ -23,7 +23,7 @@
         "organization_id": 130850,
         "speciality_id": 5494,
         "ref_visit_motive_id": 6970,
-        "position": 1,
+        "position": 3,
         "telehealth": false,
         "vaccination_days_range": 25,
         "vaccination_motive": true,
@@ -40,7 +40,7 @@
         "organization_id": 130850,
         "speciality_id": 5494,
         "ref_visit_motive_id": 6971,
-        "position": 2,
+        "position": 4,
         "telehealth": false,
         "vaccination_days_range": 0,
         "vaccination_motive": true,
@@ -57,7 +57,7 @@
         "organization_id": 130850,
         "speciality_id": 5494,
         "ref_visit_motive_id": 7005,
-        "position": 3,
+        "position": 1,
         "telehealth": false,
         "vaccination_days_range": 28,
         "vaccination_motive": true,
@@ -74,7 +74,7 @@
         "organization_id": 130850,
         "speciality_id": 5494,
         "ref_visit_motive_id": 7004,
-        "position": 4,
+        "position": 2,
         "telehealth": false,
         "vaccination_days_range": 0,
         "vaccination_motive": true,
@@ -95,15 +95,15 @@
         "organization_id": 130850,
         "visit_motive_ids_by_practice_id": {
           "164634": [
+            2598090,
             2532017,
-            2532018,
-            2598090
+            2532018
           ]
         },
         "visit_motive_ids": [
+          2598090,
           2532017,
-          2532018,
-          2598090
+          2532018
         ],
         "visit_motive_ids_only_for_doctors": null,
         "practice_id": 164634,
@@ -121,17 +121,17 @@
         "organization_id": 130850,
         "visit_motive_ids_by_practice_id": {
           "164634": [
-            2532017,
-            2532018,
             2598089,
-            2598090
+            2598090,
+            2532017,
+            2532018
           ]
         },
         "visit_motive_ids": [
-          2532017,
-          2532018,
           2598089,
-          2598090
+          2598090,
+          2532017,
+          2532018
         ],
         "visit_motive_ids_only_for_doctors": null,
         "practice_id": 164634,
