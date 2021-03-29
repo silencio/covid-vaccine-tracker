@@ -38,7 +38,7 @@
         "latitude": 48.8095142,
         "longitude": 2.2990351,
         "elevator": false,
-        "handicap": false,
+        "handicap": true,
         "formal_name": "Centre de Vaccination Covid-19 - Châtillon Malakoff",
         "landline_number": "01 58 07 24 60",
         "reception_info": null,
