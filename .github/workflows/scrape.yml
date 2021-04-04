@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         #curl https://partners.doctolib.fr/booking/la-salle-des-greniers-saint-jean-centre-de-vaccination.json | jq . > angers.la-salle-des-greniers-saint-jean-centre-de-vaccination.json
-        #curl https://partners.doctolib.fr/booking/centre-de-vaccination-covid-de-versailles.json | jq . > centre-de-vaccination-covid-de-versailles.json
+        curl https://partners.doctolib.fr/booking/centre-de-vaccination-covid-de-versailles.json | jq . > centre-de-vaccination-covid-de-versailles.json
         #curl https://partners.doctolib.fr/booking/apta-78-vaccination-covid-19-velizy-villacoublay.json | jq . > apta-78-vaccination-covid-19-velizy-villacoublay.json
         #curl https://partners.doctolib.fr/booking/centre-vaccination-ville-de-boulogne-billancourt.json | jq . > centre-vaccination-ville-de-boulogne-billancourt.json
         #curl https://partners.doctolib.fr/booking/centre-de-vaccination-covid-19-chatillon-malakoff.json | jq . > centre-de-vaccination-covid-19-chatillon-malakoff.json
@@ -32,7 +32,7 @@ jobs:
         # LA ROCHE SUR YON
         #curl "https://partners.doctolib.fr/availabilities.json?start_date=${start_date}&visit_motive_ids=2549008&agenda_ids=410967-410970-410968-445047-422917-442519-442520-442521-442522&insurance_sector=public&practice_ids=164737&destroy_temporary=true&limit=7" | jq . > la-roche-sur-yon.centre-de-vaccination-de-la-la-roche-sur-yon.json.2549008.json
         # VERSAILLES
-        #curl "https://partners.doctolib.fr/availabilities.json?start_date=${start_date}&visit_motive_ids=2532017&agenda_ids=422186&insurance_sector=public&practice_ids=164634&destroy_temporary=true&limit=7&allowNewPatients=true&telehealth=false&profileId=242655&isOrganization=true&telehealthFeatureEnabled=false&vaccinationMotive=true&vaccinationDaysRange=26&vaccinationCenter=true&nbConfirmedVaccinationAppointments=2546" | jq . > versailles.centre-de-vaccination-covid-de-versailles.2532017.json
+        curl "https://partners.doctolib.fr/availabilities.json?start_date=${start_date}&visit_motive_ids=2532017&agenda_ids=422186&insurance_sector=public&practice_ids=164634&destroy_temporary=true&limit=7&allowNewPatients=true&telehealth=false&profileId=242655&isOrganization=true&telehealthFeatureEnabled=false&vaccinationMotive=true&vaccinationDaysRange=26&vaccinationCenter=true&nbConfirmedVaccinationAppointments=2546" | jq . > versailles.centre-de-vaccination-covid-de-versailles.2532017.json
         # CHATILLON
         #curl "https://partners.doctolib.fr/availabilities.json?start_date=${start_date}&visit_motive_ids=2694744&agenda_ids=437556&insurance_sector=public&practice_ids=176419&destroy_temporary=true&limit=7" | jq . > chatillon.centre-de-vaccination-covid-19-chatillon-malakoff.availabilities.2694744.json
         # VELIZY
