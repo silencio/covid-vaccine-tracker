@@ -27,7 +27,7 @@
         "telehealth": false,
         "vaccination_days_range": 25,
         "vaccination_motive": true,
-        "is_vaccination": true,
+        "covid_vaccination_set_appointment_organization": true,
         "first_shot_motive": true,
         "allow_new_patients": true,
         "allow_new_patients_on_insurance_sector": null,
@@ -44,7 +44,7 @@
         "telehealth": false,
         "vaccination_days_range": 0,
         "vaccination_motive": true,
-        "is_vaccination": true,
+        "covid_vaccination_set_appointment_organization": true,
         "first_shot_motive": false,
         "allow_new_patients": true,
         "allow_new_patients_on_insurance_sector": null,
@@ -59,9 +59,9 @@
         "ref_visit_motive_id": 7005,
         "position": 3,
         "telehealth": false,
-        "vaccination_days_range": 28,
+        "vaccination_days_range": 25,
         "vaccination_motive": true,
-        "is_vaccination": true,
+        "covid_vaccination_set_appointment_organization": true,
         "first_shot_motive": true,
         "allow_new_patients": true,
         "allow_new_patients_on_insurance_sector": null,
@@ -78,7 +78,7 @@
         "telehealth": false,
         "vaccination_days_range": 0,
         "vaccination_motive": true,
-        "is_vaccination": true,
+        "covid_vaccination_set_appointment_organization": true,
         "first_shot_motive": false,
         "allow_new_patients": true,
         "allow_new_patients_on_insurance_sector": null,
@@ -95,14 +95,14 @@
         "organization_id": 130850,
         "visit_motive_ids_by_practice_id": {
           "164634": [
-            2532017,
             2532018,
+            2598089,
             2598090
           ]
         },
         "visit_motive_ids": [
-          2532017,
           2532018,
+          2598089,
           2598090
         ],
         "visit_motive_ids_only_for_doctors": null,
@@ -123,14 +123,12 @@
           "164634": [
             2532017,
             2532018,
-            2598089,
             2598090
           ]
         },
         "visit_motive_ids": [
           2532017,
           2532018,
-          2598089,
           2598090
         ],
         "visit_motive_ids_only_for_doctors": null,
