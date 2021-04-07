@@ -3,9 +3,11 @@
     "profile": {
       "id": 242655,
       "name_with_title_and_determiner": "Centre de vaccination Covid-19 de Versailles",
+      "name_with_title": "Centre de vaccination Covid-19 de Versailles",
       "speciality": null,
       "organization": true,
-      "redirect_url": null
+      "redirect_url": null,
+      "language_list": ""
     },
     "specialities": [
       {
@@ -174,12 +176,88 @@
         "formal_name": "Centre de vaccination de Versailles - Gymnase Richard Mique ",
         "landline_number": "01 30 97 29 30",
         "reception_info": null,
+        "full_address": "7 Rue Pierre Lescot, 78000 Versailles",
+        "opening_hours": [
+          {
+            "day": 1,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 2,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 3,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 4,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 5,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 6,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          },
+          {
+            "day": 0,
+            "ranges": [
+              [
+                "09:00",
+                "13:00"
+              ]
+            ],
+            "enabled": false
+          }
+        ],
         "name": "Centre de vaccination de Versailles - Gymnase Richard Mique ",
         "practice_ids": [
           164634
         ],
         "is_aphp": false,
-        "aphp_url": "http://www.aphp.fr/contenu/combien-ca-coute"
+        "aphp_url": "http://www.aphp.fr/contenu/combien-ca-coute",
+        "payment_means": null,
+        "regulation_sector": null,
+        "insurance_card": null
       }
     ],
     "practitioners": [],
